@@ -1,3 +1,7 @@
+![resim](https://vercel.com/buraktitiz/para-harcama-uygulamasi)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
