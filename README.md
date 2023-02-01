@@ -1,3 +1,7 @@
+![para-harcama-uygulamasi vercel app](https://user-images.githubusercontent.com/34415412/216102413-73031e72-a890-47d8-9c5e-836405244430.png)
+![React App - para-harcama-uygulamasi vercel app](https://user-images.githubusercontent.com/34415412/216102448-89e636fd-e1af-4bf6-a061-5172132f6045.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
