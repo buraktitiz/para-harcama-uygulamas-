@@ -1,4 +1,5 @@
-![Para Harcama Uygulaması]([https://vercel.com/buraktitiz/para-harcama-uygulamasi](https://drive.google.com/file/d/1XOELSHCIpVYkwEmLPWXhjJHY9CMcnfH9/view?usp=sharing))
+![Para Harcama Uygulaması](https://drive.google.com/file/d/1XOELSHCIpVYkwEmLPWXhjJHY9CMcnfH9/view)
+
 
 
 
